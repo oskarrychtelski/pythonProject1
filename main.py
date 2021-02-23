@@ -1,4 +1,3 @@
-from math import *
 #zad1
 # a = 'napis'
 # b = 'napis1'
@@ -67,4 +66,38 @@ from math import *
 
 
 #zad4
-print(pow(e,10))
+# print(pow(e,10))
+# print(log(5+(sin(8))**2)**(1/6))
+# print(floor(3.55))
+# print(ceil(4.80))
+
+
+
+#zad.5
+# x="OSKAR"
+# y="RYCHTELSKI"
+# print(x.capitalize() + " " + y.capitalize())
+
+
+#zad.6
+# cos="I'm turning up the volume when you speak Cause if my heart cant stop it, I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na"
+# print(cos.count("la"))
+
+
+
+# zad.7
+# x='manamana'
+# print(x[0])
+# print(x[7])
+
+
+#zad.8
+# print(cos.split())
+
+
+# zad.9
+# int='blablabla'
+# float=5.6
+# z=456
+# hex=hex(z)
+# print(int,float,hex)
